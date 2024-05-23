@@ -30,3 +30,6 @@ Tools and Technologies
     Languages: Python
     Libraries: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
     Environment: Jupyter Notebook
+
+> [!TIP]
+> Connect with me in LinkedIn www.linkedin.com/in/gourab-pal-0327801a4
